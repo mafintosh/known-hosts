@@ -1,0 +1,7 @@
+{
+  "name": "known-hosts",
+  "description": "Parse ~/.ssh/known_hosts into a Javascript array",
+  "version": "0.1.0",
+  "repository": "git://github.com/mafintosh/known-hosts.git",
+  "author": "Mathias Buus <mathiasbuus@gmail.com>"
+}
